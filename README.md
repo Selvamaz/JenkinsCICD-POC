@@ -1,6 +1,6 @@
 # Jenkins-CICD-POC
 
-[!PATH](https://github.com/Selvamaz/JenkinsCICD-POC/blob/master/Path.png)
+[!PLOT](https://github.com/Selvamaz/JenkinsCICD-POC/blob/master/Path.png)
 
 
 <br>
